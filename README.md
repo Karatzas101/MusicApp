@@ -1,2 +1,2 @@
 # MusicApp
- JDBC || PreparedStatement || CallableStatement || executeQuery || executeUpdate
+ JDBC || PreparedStatement || CallableStatement || executeQuery || executeUpdate || DAO Pattern
